@@ -1,0 +1,25 @@
+#butt{
+    text-shadow: 100px 100px 200px black;
+    border-radius:10%;
+    background-color:#150;
+    color:white;
+    transition-delay: 0.5s;
+}
+#butt:hover{
+    border-radius:60%;
+    background-color:#150;
+    color:white;
+}
+body{
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+#res_here{
+    color: red;
+}
+#genId{
+    border-radius:50%;
+    text-align: center;
+}
+#newElem{
+    text-align:center;
+}

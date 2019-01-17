@@ -1,0 +1,21 @@
+#main{
+    width:300px;
+    height: 300px;
+    background-color:rgba(161, 104, 114, 0.342);
+    border:10px double black;
+    margin:auto;
+}
+#main_text{
+    text-align: center;
+    font-size:30px;
+    word-wrap:break-word;
+    margin:0;
+}
+#main_but{
+    width:100%;
+    text-align:center;
+    background:radial-gradient(white 20%,black 80%);
+}
+body{
+    background: linear-gradient(135deg, #FABFB2, #FABFB2 25%, #FCA699 25%);
+}
